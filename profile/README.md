@@ -19,5 +19,3 @@ Always 🛠
     <img alt="Discord" src="https://img.shields.io/discord/1025289479059157012?style=for-the-badge&label=&labelColor=000&logo=discord&logoColor=fff&color=7289da" />
   </a>
 </p>
-
-[![Bento](https://github.com/inevitable-changes/bento/blob/develop/apps/web/public/assets/og-image-v3.png?raw=true)](https://bento.finance)
