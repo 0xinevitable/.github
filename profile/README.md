@@ -1,8 +1,8 @@
 <h1>
-🍱 Bento <br />
-The open-source, <br />
-cross-chain web3 dashboard <br />
-always 🛠
+🍱  Bento: <br />
+The Open-Source, <br />
+Cross-Chain Web3 Dashboard. <br />
+Always 🛠
 </h1>
 
 <p>
